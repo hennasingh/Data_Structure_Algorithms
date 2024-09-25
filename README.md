@@ -1,3 +1,5 @@
-# Eloquent JavaScript
+# Data Structure Algorithms
 
-This repository is exercises from [Eloquent JavaScript Edition 2024](https://eloquentjavascript.net/)
+This repository is JavaScript ALgoes from :
+
+1. [Eloquent JavaScript Edition 2024](https://eloquentjavascript.net/)
